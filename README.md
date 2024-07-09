@@ -40,10 +40,15 @@ This project enables users to upload PDF files and display their contents on the
 
 ## File Structure 📁
 ├── app.py
+
 ├── templates
+
 │ └── index.html
+
 ├── static
+
 │ └── style.css
+
 └── README.md
 
 ## Dependencies 📦
