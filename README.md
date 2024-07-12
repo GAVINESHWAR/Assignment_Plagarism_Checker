@@ -56,6 +56,7 @@ This project enables users to upload PDF files and display their contents on the
 - Flask
 - PyPDF2
 - numpy
+- fitz
 
 ## License 📜
 
